@@ -1,0 +1,146 @@
+nav.nav-container {
+    background-color: #015478;
+}
+
+.color-gray-container {
+    background-color: #d7d7d7;
+    width: 102.5%;
+    display: block;
+    height: 50px;
+  
+}
+
+img.image-profile {
+    width: 60px;
+    height: 60px;
+    border: 2px;
+    margin: 5%;
+    border-color: #015478;
+    background: white;
+    border-radius: 75px;
+    
+}
+.text-left{
+    text-align: start;
+}
+
+img.image-home {
+    width:15px;
+    height: 15px;
+    margin-bottom: 4px;
+}
+
+.nav-title-container.col-sm-10 {
+    text-align: start;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.cardSpace{
+    padding-bottom: 20px;
+}
+
+label.nav-title {
+    color: white;
+    font-size: 30px;
+}
+.container-card-dashboard.card {
+    margin: 7%;
+    background-color: #037eb4;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+img.card-image {
+    width: 50%;
+}
+
+.card-footer.card-text-footer {
+    text-align: start;
+    color: white;
+    font-size: 16px;
+    background-color: #015478;
+}
+
+label.label-text-lg {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.body-padding-2half {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    text-align: left;
+}
+
+img.image-button-plus {
+    width: 40px;
+    margin-bottom: 3px;
+    cursor: pointer;
+}
+
+.tools-container {
+    float: left;
+    margin-left:15px;
+    cursor:pointer;
+}
+
+/* Entity Card  */
+ 
+
+.card-entity.card {
+    box-shadow: 1px 1px 3px;
+    cursor:pointer;
+}
+
+.card-row-entity.row {
+    margin: 0px;
+}
+
+.card-body-entity.card {
+    border: none;
+    text-align: start;
+    padding: 4%;
+    height: 100%;
+    justify-content: space-between;
+}
+label.entity-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+
+label.entity-date {
+    font-size: 12px;
+    font-weight: 700;
+}
+.entity-col-2.col-sm-2 {
+    background: #f2f2f2; 
+}
+
+img.image-arrow {
+    width: 25px;
+    margin-top: 50px;
+}
+
+img.image-tools{
+    width: 20px;
+}
+
+img.image-tools-lg{
+    width: 25px;
+}
+
+label.text-tools{
+    font-size: 10px;
+}
+
+.button-size{
+    width:80px;
+    margin:10px;
+}
+
+.text-center{
+    text-align: center
+}
